@@ -1,0 +1,1 @@
+執行make就可以編譯完成並執行所有測試檔案，執行make clean則可以移除所有編譯過程產生的檔案：myCompilerParser.java, myCompilerLexer.java,myCompiler.tokens還有所有.class與所有.ll
